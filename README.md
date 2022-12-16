@@ -59,7 +59,7 @@ I'm known for my positive demeanour and strong problem-solving skills and abilit
 <br/>  
 
 
-## Rapidfire  
+## Now 
 <table><tr><td valign="top" width="50%">
 
 - I am currently working on [Fisidi](https://github.com/joshjgomes/fisidi)  
@@ -239,6 +239,3 @@ I'm known for my positive demeanour and strong problem-solving skills and abilit
 
 
 <br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
