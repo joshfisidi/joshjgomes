@@ -77,9 +77,6 @@ I'm known for my positive demeanour and strong problem-solving skills and abilit
 </td><td valign="top" width="50%">
 
 
-
-</td></tr></table>  
-
 <br/>  
 
 
