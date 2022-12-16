@@ -54,30 +54,7 @@
 I am a skilled software developer with over a decade of industry experience. I deeply understand a wide range of programming languages and frameworks. I use my skills to build robust, scalable, innovative and maintainable apps that impact the world toward progress and unity.
 
 I'm known for my positive demeanour and strong problem-solving skills and ability to work collaboratively with cross-functional teams. I am an excellent communicator and am always willing to share my knowledge and experience with others. Throughout my career, I've worked on various projects and have a track record of delivering high-quality products on time and on budget. I always look for new challenges and opportunities to grow as a developer.  
-  
-
-<br/>  
-
-
-## Now 
-<table><tr><td valign="top" width="50%">
-
-- I am currently working on [Fisidi](https://github.com/joshjgomes/fisidi)  
-  
-
-- I’m currently learning Scala and Rust  
-  
-
-- Ask me about anything!  
-  
-
-- Fun fact: I also make [music](https://open.spotify.com/track/3Dw71e4YyMOxVllgsI8uSS?si=9ecd7230ae99412b&utm_medium=share&utm_source=linktree&nd=1)  
-
-
-</td><td valign="top" width="50%">
-
-
-<br/>  
+ 
 
 
 ## Languages and Tools  
