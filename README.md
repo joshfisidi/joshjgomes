@@ -51,7 +51,7 @@
 
 
 ### Hey,  
-I am a skilled software developer with over a decade of industry experience. I deeply understand a wide range of programming languages and frameworks. I use my skills to build robust, scalable, innovative and maintainable apps that impact the world toward progress and unity.
+I'm a software developer with over a decade of industry experience. I deeply understand a wide range of programming languages and frameworks. I use my skills to build robust, scalable, innovative and maintainable apps that impact the world toward progress and unity.
 
 I'm known for my positive demeanour and strong problem-solving skills and ability to work collaboratively with cross-functional teams. I am an excellent communicator and am always willing to share my knowledge and experience with others. Throughout my career, I've worked on various projects and have a track record of delivering high-quality products on time and on budget. I always look for new challenges and opportunities to grow as a developer.  
  
