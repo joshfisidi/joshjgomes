@@ -1,6 +1,4 @@
-## < Sup, I'm jOsh! />  
-
-[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;jOsh)](https://git.io/typing-svg)
+## < [![Typing SVG](https://readme-typing-svg.demolab.com/?lines=First+line+of+text;jOsh)](https://git.io/typing-svg) /> 
 
   
 
