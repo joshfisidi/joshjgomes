@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00C70B&width=435&lines=if+this+isn't+a+simulation+why+are+you+staring+at+a+simulation)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00C70B&width=435&lines=If+this+isn't+a+simulation+why+are+you+staring+at+a+simulation)](https://git.io/typing-svg)
 
 <a href="https://linkedin.com/in/joshjgomes" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
