@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00C70B&width=900&lines=If+this+isn't+a+simulation+why+are+you+staring+at+a+simulation.)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00C70B&width=900&lines=1000+years+of+technology+in+100.)](https://git.io/typing-svg)
 
 <a href="https://linkedin.com/in/joshjgomes" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
@@ -48,12 +48,12 @@
   
 
 
+### Yoo,  
+I'm a developer with 2 years of experience using html, css, javascript and python. I am currently studying rust, qiskit, and dart. I am fascinated by code and it's ability to transform the world, I f*cking love the challenge of constructing a mere thought into tangible solutions propelling the world toward greater and greater advancements.
 
-### Hey,  
-I'm a software developer with over a decade of industry experience. I deeply understand a wide range of programming languages and frameworks. I use my skills to build robust, scalable, innovative and maintainable apps that impact the world toward progress and unity.
+The truth is, I've been coding since 2007 but didn't believe I was smart enough until 7 years ago. I was diagnosed with a chronic illness and after some deep thought and tears I decided to pivot from music to code, and what I believed to be my secondary passion became my main love entirely. For the last 7 years it has been challenging to maintain my health and have been working on a book for quite some time now on the matter of bolstering health through natural genetic modulation.
 
-I'm known for my positive demeanour and strong problem-solving skills and ability to work collaboratively with cross-functional teams. I am an excellent communicator and am always willing to share my knowledge and experience with others. Throughout my career, I've worked on various projects and have a track record of delivering high-quality products on time and on budget. I always look for new challenges and opportunities to grow as a developer.  
- 
+According to my peers, I'm known for a solid straight-forward demeanour with spontaneous humour, having persistent problem-solving skills and deep comfortability working in a collaborative cross-functional environment. Transparency and communication are my golden anchors for growth. Willingly sharing experience, skills and knowledge with a team are 2 key ways of ensuring it. In my journey thus far, apart from my own personal projects, I've been scouted by disney, gained 500,000 downloads on the Play Store, worked on mobile games, websites and apps for small private companies. There are few words to describe the mania I can't seem to shake with software, for the better, the world will not be the same once I done with it.
 
 
 ## Languages and Tools  
