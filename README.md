@@ -49,7 +49,7 @@
 
 
 ### Sup,  
-I've been messing around with html, javascript and css since 2007 but never really took it seriously until now, even though some would say I've been a dev for 10 years, personally I feel I've only got about 2 years of solid experience under my belt. I'm obsessed with quantum computing, artificial intelligence, integrated blockchain systems, material science, synethic biology and the arts.
+I've been messing around with html, javascript and css since 2007 but never really took it seriously until now, some would say I've been a dev for 10 years, but personally I feel I've only got about 2 years of solid experience under my belt. I'm obsessed with quantum computing, space travel, artificial intelligence, integrated blockchain systems, material science, synethic biology and the arts.
 
 ## Use/Learning
 <div align="center">  
