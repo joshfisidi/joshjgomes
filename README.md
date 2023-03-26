@@ -49,14 +49,9 @@
 
 
 ### Sup,  
-I'm a developer with 2 years of experience using html, css, javascript and python. I am currently studying rust, qiskit, and dart. I am fascinated by code and it's ability to transform the world, I f*cking love the challenge of constructing a mere thought into tangible solutions propelling the world toward greater and greater advancements.
+I've been messing around with html, javascript and css since 2007 but never really took it seriously until now, even though some would say I've been a dev for 10 years, personally I feel I've only got about 2 years of solid experience under my belt. I'm obsessed with quantum computing, artificial intelligence, integrated blockchain systems, material science, synethic biology and the arts.
 
-The truth is, I've been coding since 2007 but didn't believe I was smart enough until 7 years ago. I was diagnosed with a chronic illness and after some deep thought and tears I decided to pivot from music to code, and what I believed to be my secondary passion became my main love entirely. For the last 7 years it has been challenging to maintain my health and have been working on a book for quite some time now on the matter of bolstering health through natural genetic modulation.
-
-According to my peers, I'm known for a solid straight-forward demeanour with spontaneous humour, having persistent problem-solving skills and deep comfortability working in a collaborative cross-functional environment. Transparency and communication are my golden anchors for growth. Willingly sharing experience, skills and knowledge with a team are 2 key ways of ensuring it. In my journey thus far, apart from my own personal projects, I've been scouted by disney, gained 500,000 downloads on the Play Store, worked on mobile games, websites and apps for small private companies. There are few words to describe the mania I can't seem to shake with software, for the better, the world will not be the same once I done with it.
-
-
-## Languages and Tools  
+## Use/Learning
 <div align="center">  
 <a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/csharp-original.svg" alt="C#" height="50" /></a>  
