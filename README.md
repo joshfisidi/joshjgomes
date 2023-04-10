@@ -48,8 +48,8 @@
   
 
 
-### Sup,  
-I've been messing around with html, javascript and css since 2007 but never really took it seriously until now, some would say I've been a dev for 10 years, but personally I feel I've only got about 2 years of solid experience under my belt. I'm obsessed with quantum computing, space travel, artificial intelligence, integrated blockchain systems, material science, synethic biology and the arts.
+### "Since discovering JavaScript in '07, I embarked on a 10-year music career and studied fintech in 2016.
+In 2020, My focus shifted to UX/UI, ML algorithms, and blockchain data structures, and now have 2 solid years of experience. I am mesmerized by quantum computing, space travel, artificial intellgience, blockchain, material science, synthetic biology, and generative art. Together, our boundless utility and unity will change the world."
 
 ## Use/Learning
 <div align="center">  
