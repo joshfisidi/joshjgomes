@@ -48,8 +48,7 @@
   
 
 
-### Since discovering JavaScript in '07, I embarked on a 10-year music career wherein after I studied fintech in 2016.
-In 2020, My focus shifted from Blockchain to ML algorithms.
+### Since discovering JavaScript in 2007, I embarked on a 10-year music career. After that, I shifted my focus to fintech in 2016. By 2020, my interest had evolved from blockchain to machine learning algorithms.
 
 ## Use/Learning
 <div align="center">  
