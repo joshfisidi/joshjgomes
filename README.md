@@ -48,7 +48,7 @@
   
 
 
-### Discovered JavaScript in 2007, programmed on the side building, apps, games and websites for fun then to support my music. 2012 started experimenting on health battling bacteria Worked at a crypto start-up in 2016. 2021-present founded [Fisidi Inc.](https://www.fisidi.com) A digital gamification blockchain studio
+### Discovered JavaScript in 2007, built and published games and apps in 2012. 2014, start of self-experimentation; chronic illness fully stablized by 2022. Worked at a crypto start-up in 2016. 2021-present founded [Fisidi Inc.](https://www.fisidi.com) A digital gamification blockchain studio...
 
 ## Use/Learning
 <div align="center">  
