@@ -48,7 +48,7 @@
   
 
 
-### Since discovering JavaScript in 2007, I embarked on a 10-year music career. After that, I shifted my focus to fintech in 2016. By 2020, my interest had evolved from blockchain to machine learning algorithms.
+### Discovered JavaScript in 2007, programmed on the side building, apps, games and websites for fun then to support my music. 2012 started experimenting on health battling bacteria Worked at a crypto start-up in 2016. 2021-present founded [Fisidi Inc.](https://www.fisidi.com) A digital gamification blockchain studio
 
 ## Use/Learning
 <div align="center">  
