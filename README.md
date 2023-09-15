@@ -45,10 +45,7 @@
 <a href="https://gitlab.com/joshjgomes" target="_blank">
 <img src=https://img.shields.io/badge/gitlab-330F63.svg?&style=for-the-badge&logo=gitlab&logoColor=white alt=gitlab style="margin-bottom: 5px;" />
 </a>  
-  
 
-
-### Discovered JavaScript in 2007, built and published games and apps in 2012. 2014, start of self-experimentation; chronic illness fully stablized by 2022. Worked at a crypto start-up in 2016. 2021-present founded [Fisidi Inc.](https://www.fisidi.com) A digital gamification blockchain studio...
 
 ## Use/Learning
 <div align="center">  
